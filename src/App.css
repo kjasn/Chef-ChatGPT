@@ -1,0 +1,13 @@
+body {
+    font-family: "SimSun", "宋体", serif;
+    background: radial-gradient(
+        circle at center,
+        #ffffff 0%,
+        #fffaf5 30%,
+        #faf0ea 60%,
+        #fcefe8 100%
+    );
+    width: 70%;
+    /* background-color: lightblue; */
+    margin: 0 auto;
+}

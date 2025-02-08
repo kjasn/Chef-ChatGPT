@@ -1,0 +1,26 @@
+.ingredient-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 1px 0px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.ingredient-item button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.ingredient-item button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+}
+
+.ingredient-item i {
+    font-size: 5px;
+}
