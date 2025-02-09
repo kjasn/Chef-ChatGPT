@@ -1,10 +1,12 @@
 # Chef ChatGPT
 
-This is a project _powered by chatgpt (actually deepseek🤪)_ with user friendly UI, which can tell you what meals you can make with your given ingredients.
+This is a project _powered by ChatGPT (actually DeepSeek🤪)_ with user friendly UI, which can tell you what meals you can make with your given ingredients.
 
 Here is the preview page:
 
 ![preview](./src/assets/preview.png)
+
+Take a look, [click here](https://chef-chatgpt.vercel.app/)
 
 ## Quick Start
 
